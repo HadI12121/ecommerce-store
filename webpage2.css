@@ -403,7 +403,10 @@ i {
         margin-left: 5px;
     }
     .grid-category-row1 .hide-offer-tablet {
-        display: flex;
+        display: block;
+    }
+    .grid-category-row1 .hide-offer-tablet p {
+        font-size: 13px;
     }
     .grid-category-row1 .col-6,
     .grid-category-row3 .col-6 {
